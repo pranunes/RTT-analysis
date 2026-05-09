@@ -24,6 +24,12 @@ Inside the programming language directories, different analysis are present in d
 
 ### Python_Analyses
 
+[PCA and Volcano plots folder](https://github.com/pranunes/RTT-analysis/tree/main/Python_Analyses/PCA_Volcano_Plots) - This directory is dedictated to all the PCAs and differential expression analysis results performed.
 
+[Genomic_proximity_analysis.ipynb](https://github.com/pranunes/RTT-analysis/tree/main/Python_Analyses/Genomic_proximity_analysis.ipynb) - Jupyter notebooks file with all the genomic proximity analyses performed.
+
+[Heatmap_analysis.ipynb](https://github.com/pranunes/RTT-analysis/tree/main/Python_Analyses/Heatmap_analysis.ipynb) - Jupyter notebooks file with all tissue specificity analyses.
+
+[Make_bed_files.ipynb](https://github.com/pranunes/RTT-analysis/tree/main/Python_Analyses/Make_bed_files.ipynb) - Jupyter notebooks file in which bed files were created.
 
 
