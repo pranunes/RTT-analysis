@@ -7,6 +7,10 @@ Analysis"
 This repository is organized by different directories, each one corresponding to a distinct programming language used in the analysis.
 Inside the programming language directories, different analysis are present in different files or folders.
 
+## Table of contents
+- [R_Analyses](#R_Analyses)
+- [Python_Analyses](#Python_Analyses)
+
 ### R_Analyses
 [Script_Aldinger2020.R](https://github.com/pranunes/RTT-analysis/blob/main/R_Analysis/Script_Aldinger2020.R) - R script to perform differential expression analysis for the Aldinger2020 dataset.
 
