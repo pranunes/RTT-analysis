@@ -8,4 +8,5 @@ This repository is organized by different directories, each one corresponding to
 Inside the programming language directories, different analysis are present in different files or folders.
 
 ### R_Analyses
-[a link] 
+[a link] (https://github.com/pranunes/RTT-analysis/blob/main/R_Analysis/Script_Aldinger2020.R)
+
