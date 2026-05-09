@@ -1,6 +1,6 @@
 # Rett syndrome
 
-This repository is dedicated to code and data associated with the BCM project "Exploring Transposable Element Dysregulation in Rett Syndrome Through Computational
+This repository is dedicated to code associated with the BCM project "Exploring Transposable Element Dysregulation in Rett Syndrome Through Computational
 Analysis"
 
 ## Repository organization
@@ -19,5 +19,11 @@ Inside the programming language directories, different analysis are present in d
 [Script_Sun2023.R](https://github.com/pranunes/RTT-analysis/blob/main/R_Analysis/Script_Sun2023.R) - R script to perform differential expression analysis for the Sun2023 dataset.
 
 [Script_Liu2024.R](https://github.com/pranunes/RTT-analysis/blob/main/R_Analysis/Script_Liu2024.R) - R script to perform differential expression analysis for the Liu2024 dataset.
+
 [Script_Xiang2020.R](https://github.com/pranunes/RTT-analysis/blob/main/R_Analysis/Script_Xiang2020.R) - R script to perform differential expression analysis for the Xiang2020 dataset.
+
+### Python_Analyses
+
+
+
 
