@@ -28,7 +28,7 @@ Inside the programming language directories, different analysis are present in d
 
 ### Python_Analyses
 
-[PCA and Volcano plots folder](https://github.com/pranunes/RTT-analysis/tree/main/Python_Analyses/PCA_Volcano_Plots) - This directory is dedictated to all the PCAs and differential expression analysis results performed.
+[PCA and Volcano plots folder](https://github.com/pranunes/RTT-analysis/tree/main/Python_Analyses/PCA_Volcano_Plots) - This directory is dedictated to all the PCAs and differential expression analysis results.
 
 [Genomic_proximity_analysis.ipynb](https://github.com/pranunes/RTT-analysis/tree/main/Python_Analyses/Genomic_proximity_analysis.ipynb) - Jupyter notebooks file with all the genomic proximity analyses performed.
 
